@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@cloudbase/adapter-interface": "^0.4.1",
+    "@maoyan/cloudbase-adapter-tt_mp": "^0.1.1"
+  }
+}
