@@ -1,6 +1,6 @@
 {
   "name": "cloudbase-adapter-tt_game",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "腾讯云服务（tcb-js-sdk ）字节跳动小游戏适配器",
   "main": "dist/index.js",
   "module": "dist/esm/index.js",
@@ -15,18 +15,18 @@
   "devDependencies": {
     "@babel/core": "^7.7.5",
     "@babel/preset-env": "^7.7.6",
-    "@typescript-eslint/eslint-plugin": "^2.34.0",
-    "@typescript-eslint/parser": "^2.34.0",
+    "@typescript-eslint/eslint-plugin": "^2.11.0",
+    "@typescript-eslint/parser": "^2.11.0",
     "babel-loader": "^8.0.6",
     "eslint": "^6.8.0",
     "eslint-config-alloy": "^3.4.0",
     "ts-loader": "^6.2.1",
     "typescript": "^3.7.3",
-    "webpack": "^4.46.0",
+    "webpack": "^4.41.3",
     "webpack-cli": "^3.3.10"
   },
   "dependencies": {
-    "@cloudbase/adapter-interface": "^0.4.1",
+    "@cloudbase/adapter-interface": "^0.4.0",
     "@maoyan/cloudbase-adapter-tt_mp": "^0.1.1"
   }
 }
