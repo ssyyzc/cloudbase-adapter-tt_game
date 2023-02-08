@@ -1,6 +1,6 @@
 {
   "name": "cloudbase-adapter-tt_game",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "腾讯云服务（tcb-js-sdk ）字节跳动小游戏适配器",
   "main": "dist/index.js",
   "module": "dist/esm/index.js",
@@ -12,6 +12,10 @@
   },
   "author": "zc",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ssyyzc/cloudbase-adapter-tt_game"
+  },
   "devDependencies": {
     "@babel/core": "^7.7.5",
     "@babel/preset-env": "^7.7.6",
