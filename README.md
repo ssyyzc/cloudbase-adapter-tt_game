@@ -11,6 +11,9 @@ npm i cloudbase-adapter-tt_game -S
 npm i @cloudbase/js-sdk@1.7.2 -S
 ```
 
+## Unpkg(推荐)
+可以使用unpkg托管的js文件，地址如下  https://unpkg.com/cloudbase-adapter-tt_game@1.0.5/dist/index.js
+
 ## 使用
 ### ES Module
 ```javascript
